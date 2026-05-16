@@ -16,6 +16,7 @@ class ViewController: UIViewController {
         // test commit
         // make some changes from development branch
         // add google signin buttons
+        // add profile avatar
     }
 
 
